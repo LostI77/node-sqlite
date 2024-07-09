@@ -1,0 +1,17 @@
+{
+  "name": "node-sqlite",
+  "version": "1.0.0",
+  "description": "Es curioso como SQLite esta ganando mas atención estos meses en el desarrollo web y mas ahora con la integración nativa de SQLite a Node.js",
+  "main": "./src/example.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "sqlite",
+    "spanish-language"
+  ],
+  "author": "Lost..",
+  "license": "MIT"
+}
