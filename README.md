@@ -7,8 +7,11 @@ SQLite se ha hecho muy popular por el buen rendimiento y facilidad que da a la h
 En mi experiencia personal SQLite es divertido, muy rápido de implementar, anteriormente lo probé con prisma mucho antes de que node.js implemente sqlite de forma nativa.
 
 Parece que esta implementación de SQLite no funciona de forma `async` es `sync`
+
 SQLite se ejecuta en proceso (limitado por la CPU)
+
 Tiene flag: `--experimental-sqlite`
+
 Se pueden ejecutar Querys de SQLite.
 
 ```mjs
